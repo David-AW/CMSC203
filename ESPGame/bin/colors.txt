@@ -1,0 +1,16 @@
+1 black
+2 white
+3 gray
+4 silver
+5 maroon
+6 red
+7 purple
+8 fuchsia
+9 green
+10 lime
+11 olive
+12 yellow
+13 navy
+14 blue
+15 teal
+16 aqua
