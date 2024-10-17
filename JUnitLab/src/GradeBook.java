@@ -46,8 +46,8 @@ public class GradeBook
     */
    public String toString() {
 	   String s = "";
-	   for (int i = 0; i < scores.length; i++) {
-		   s += scores[i] + (i == scores.length-1 ? "" : " ");
+	   for (int i = 0; i < scoresSize; i++) {
+		   s += scores[i] + (i == scoresSize-1 ? "" : " ");
 	   }
 	   return s;
    }

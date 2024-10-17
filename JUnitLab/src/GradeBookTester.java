@@ -31,7 +31,7 @@ class GradeBookTester {
 
 	@Test
 	void testAddScore() {
-		assertTrue(test1.toString().equals("95.6 54.4 0.0 0.0 0.0"));
+		assertTrue(test1.toString().equals("95.6 54.4"));
 		assertTrue(test2.toString().equals("70.3 69.9 22.2 78.9 23.4"));
 		assertEquals(2, test1.getScoresSize());
 		assertEquals(5, test2.getScoresSize());
