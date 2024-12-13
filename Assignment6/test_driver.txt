@@ -1,0 +1,33 @@
+David
+28
+give me an alcoholic drink
+small
+end this order
+yes
+Alice
+15
+smoothie please!
+large
+5
+no
+Something with alcohol please!
+okay, another smoothie
+small
+6
+end
+yes
+John
+45
+alcohol
+small
+more alcohol
+medium
+even more alcohol
+large
+EVEN MORE ALCOHOL!
+okay, a coffee to sober me up
+small
+yes
+no
+end
+no
